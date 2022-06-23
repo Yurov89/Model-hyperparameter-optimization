@@ -1,2 +1,2 @@
-# Model-hyperparameter-optimization
+# Model_hyperparameter_optimization
 SF homework
